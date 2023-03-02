@@ -1,5 +1,5 @@
 # Assignment7
-The main goal of this project is to construct, analyze, and publish a dataset on data.world and that analysis should be performed in a single Jupyter notebook and all data, documentation, and code should be published in a single GitHubLinks to an external site. repository. The side goal is while completing the main goal try to get some grasp of what a high-ranking Evelynn player is like stat wise.
+The main goal of this project is to construct, analyze, and publish a dataset on data.world and that analysis should be performed in a single Jupyter notebook and all data, documentation, and code should be published in a single GitHubLinks to an external site. repository. Additionally this project should be reproducible for any one who happends to stubble apon it. The side goal is while completing the main goal try to get some grasp of what a high-ranking Evelynn player is like stat wise.
 
 OneTricks.gg. (n.d.). Evelynn Champion Ranking. Retrieved March 3, 2023, from https://www.onetricks.gg/champions/ranking/Evelynn
 
