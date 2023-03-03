@@ -1,7 +1,10 @@
 # Assignment7
-The main goal of this project is to construct, analyze, and publish a dataset on data.world and that analysis should be performed in a single Jupyter notebook and all data, documentation, and code should be published in a single GitHubLinks to an external site. repository. Additionally this project should be reproducible for any one who happends to stubble apon it. The side goal is while completing the main goal try to get some grasp of what a high-ranking Evelynn player is like stat wise.
+The main goal of this project is to construct, analyze, and publish a dataset on data.world and that analysis should be performed in a single Jupyter notebook and all data, documentation, and code should be published in a single GitHubLinks to an external site. repository. Additionally this project should be reproducible for any one who happends to stubble apon it. The side goal is while completing the main goal try to get some grasp of what a high-ranking player is like stat wise and some understanding between assassin class top rank players vs tank class top rank players.
 
-OneTricks.gg. (n.d.). Evelynn Champion Ranking. Retrieved March 3, 2023, from https://www.onetricks.gg/champions/ranking/Evelynn
+OneTricks.gg. (n.d.). Evelynn Champion Ranking. Retrieved March 2, 2023, from https://www.onetricks.gg/champions/ranking/Evelynn
+OneTricks.gg. (n.d.). Nocturne Champion Ranking. Retrieved March 2, 2023, from https://www.onetricks.gg/champions/ranking/Nocturne
+OneTricks.gg. (n.d.). Rammus Champion Ranking. Retrieved March 2, 2023, from https://www.onetricks.gg/champions/ranking/Rammus
+OneTricks.gg. (n.d.). Zac Champion Ranking. Retrieved March 2, 2023, from https://www.onetricks.gg/champions/ranking/Zac
 
 Usage Data is collected automatically when using the Service.
 
