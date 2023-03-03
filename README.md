@@ -16,13 +16,15 @@ We may also collect information that Your browser sends whenever You visit our S
 
 https://data.world/lordpengui/best-evelynn-players
 column_a = integer = Row Number
-tier = string = Row Number
-player = string = Row Number
-lp = integer = Row Number
-play_rate = decimal = Row Number
-games = integer = Row Number
-win_rate = decimal = Row Number
-kda = decimal = Row Number
-region = string = Row Number
+Character = string = Character name
+Role = string = Character class
+tier = string = Players Tier (Master, GrandMaster, Challenger)
+player = string = Players Name
+lp = integer = Points players accumulated
+play_rate = decimal = How ofter they play that Character in %
+games = integer = How many games a player played overall on that character
+win_rate = decimal = How often they win in %
+kda = decimal = KDA = (Kill+Assist) / Death
+region = string = Where the player is located
 
-One issue with the data is that it is not the most recent data collected. Additionally another issue is the fact that the graphs were made based off of my bias as a player of what players like me would like to see.
+One issue with the data is that it is not the most recent data collected. Additionally another issue is the fact that the graphs were made based off of my bias as a player of what players like me would like to see. Also my bias is from the viewpoint of a low ranking player.
